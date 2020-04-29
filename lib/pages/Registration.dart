@@ -394,7 +394,7 @@ class _RegistrationState extends State<Registration> {
       if (selected)
         width1 = 265;
       else {
-        String token = "kr4Ju4ImZ7aPJoQLhepb";
+        String token = key;
         String type = "invisible";
         var response =
             await dio.post("https://register.mitrevels.in/signup/", data: {
