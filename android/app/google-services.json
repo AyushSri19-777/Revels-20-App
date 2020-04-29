@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "174732233254",
+    "firebase_url": "https://revels-20.firebaseio.com",
+    "project_id": "revels-20",
+    "storage_bucket": "revels-20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174732233254:android:364222bdfeaa88a62ff4e7",
+        "android_client_info": {
+          "package_name": "com.mit.mitrevels20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174732233254-29v7fu9kpgq69fbfpoqkg7s4i9g5i2h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMvjFTIYB6UPmuaTVWxlmS5zNS-LsnsK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174732233254-29v7fu9kpgq69fbfpoqkg7s4i9g5i2h6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "174732233254-0nl28eqcq68e5gv9gn037o0l5tj4f4h4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.namanjain.Revels20"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
